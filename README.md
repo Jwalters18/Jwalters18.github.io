@@ -2,5 +2,5 @@
 ## **TechStart Portfolio**
 ### Chatbots
 ## Project Description:
-My chatbot answers general questions and it can also interact with the user like playing rock, paper, and scissors. 
+### My chatbot answers general questions and it can also interact with the user like playing rock, paper, and scissors. 
 ![filter](/Chatbot_Jwalters18.png)
